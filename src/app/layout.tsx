@@ -1,6 +1,6 @@
 import '@/styles/globals.css';
-import React from 'react';
 import AddressBar from '@/ui/AddressBar';
+import React from 'react';
 import GlobalNav from './GlobalNav';
 
 export default function RootLayout({
