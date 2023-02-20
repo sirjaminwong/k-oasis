@@ -1,4 +1,4 @@
-import { MyShelf } from '@/modules/shelf/my-shelf';
+import MyShelf from '@/modules/shelf/my-shelf';
 
 const Page = () => {
   return (
